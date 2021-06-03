@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Short dull remarks, upon the long dull Essay upon poetry</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60073</idno><idno type="EEBO-CITATION">11910442</idno>
+  <idno type="VID">50786</idno>
+  <idno type="EEBO-PROQUEST">2240912379</idno>
+  
+            <idno type="STC">Wing S3592</idno>
+            <idno type="STC">ESTC R11272</idno>
+            <idno type="OCLC">11910442</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A60073)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50786)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 512:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Short dull remarks, upon the long dull Essay upon poetry</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Grantham, for J. Walthoe,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>An answer to John Sheffield, Duke of Buckingham. An essay upon poetry.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Buckingham, John Sheffield, --  Duke of, 1648-1720 or 21. --  Essay upon poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50786:1"/>
+            <pb facs="tcp:50786:1"/>
+            <p>Short Dull REMARKS, UPON THE Long Dull ESSAY UPON POETRY.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>J. Grantham,</hi> for <hi>J. Walthoe,</hi> 1683.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:50786:2"/>
+            <pb n="3" facs="tcp:50786:2"/>
+            <head>Short Dull REMARKS, UPON THE Long Dull ESSAY UPON POETRY.</head>
+            <lg>
+               <l>PArdon me Sacred God of Harmony,</l>
+               <l>That my officious Pen dare strike at Thee;</l>
+               <l>Tho' Satyrs in this Age so much abound,</l>
+               <l>Few stoop to ask a Pardon where they wound.</l>
+            </lg>
+            <lg>
+               <l>In the Worlds dawn, when Man by Nature taught,</l>
+               <l>Resented Wrongs, they boldly told, and fought;</l>
+               <pb n="4" facs="tcp:50786:3"/>
+               <l>So <hi>Cain</hi> no Libel on his Brother threw,</l>
+               <l>But spar'd the tender Fame of him he slew.</l>
+               <l>Scorn and malicious laughter had no name,</l>
+               <l>Some kindly pardon'd, bravely some o'recame.</l>
+               <l>But when the Earth, beneath the Waters shrunk,</l>
+               <l>Thou wanton God wert with the Deluge drunk;</l>
+               <l>And then it was vile Laughter did'st Inspire</l>
+               <l>In Satyrists, who still profane thy Fire.</l>
+               <l>In that same Age Curs'd <hi>Ham</hi> began to Mock,</l>
+               <l>(That shameful off-spring of so Rich a stock)</l>
+               <l>And since, most sing, to prove they're angry grown,</l>
+               <l>The just Reverse of what should make it known.</l>
+               <l>"And of this kind of Writing, none there are</l>
+               <l>"Which can ith' least with the <hi>Essay</hi> compare.</l>
+               <l>That <hi>Persian</hi> Muse which lately grac'd the Times,</l>
+               <l>And taught the Sun's Eternity in Rhimes,</l>
+               <l>Who having told us, "It was too Profane</l>
+               <l>"To grace the Vulgar with a Sacred Name,</l>
+               <l>"Says, Number, Rhime, and that harmonious sound</l>
+               <l>"Which never does the Ear with harshness wound,</l>
+               <lg>
+                  <pb n="5" facs="tcp:50786:3"/>
+                  <l>"Are Vulgar Arts; And if he prove it so,</l>
+                  <l>To that Poetick Vulgar, I must Bow,</l>
+                  <l>For it is more than ever <hi>He</hi> could do.</l>
+               </lg>
+               <l>"No kind of work boasts of a Nicer touch,</l>
+               <l>None Creeps so Feebly, and yet Grasps so much.</l>
+               <l>("To teach Mankind how 'tis they should Excel</l>
+               <l>"In the chief Master-piece of Writing Well.)</l>
+               <l>Almighty <hi>He!</hi> who only has the Skill</l>
+               <l>Of Writng well, but often wants the Will;</l>
+               <l>For when he had discrib'd that Glowing Heat,</l>
+               <l>
+                  <hi>That</hi> something of Divine, and more than Wit,</l>
+               <l>"He told us, That to him it oft Return'd,</l>
+               <l>("Though he at Idle Hours its Absence Mourn'd,)</l>
+               <l>"With Pow'rful Charms to hurry him away▪</l>
+               <l>"From Pleasures of the Night, and Bus'ness of the Day.</l>
+               <l>But much I fear that Fury in his Brain,</l>
+               <l>To others, seems the Feather of the Pen:</l>
+               <l>"VVhich yet he proves of VVit a Mighty Part,</l>
+               <l>"Telling us how that Feather wins the Heart.</l>
+               <pb n="6" facs="tcp:50786:4"/>
+               <l>I would return; Those Lines to him are meant,</l>
+               <l>Where 'gainst the Court he vents his Discontent;</l>
+               <l>Saying, "<hi>Whitehall</hi> has nothing now to fear,</l>
+               <l>"'Tis Wit and Sense that is the Subject here.</l>
+               <l>(But when he did these mighty things unsold,</l>
+               <l>Where did the Satyr differ from the Scold?)</l>
+               <l>But 'twere a Crime to say he could not reach</l>
+               <l>At those great Mysteries he aims to teach:</l>
+               <lg>
+                  <l>Tho' when he would the Secret plainly show</l>
+                  <l>He says; "To him alone the Lawrel's due,</l>
+                  <l>"Who can all Sciences exactly know,</l>
+               </lg>
+               <l>"Whose Phancy Flies beyond weak Reason's sight,</l>
+               <l>"And yet has Judgment to direct us right;</l>
+               <l>"Whose nice distinction (<hi>Virgil</hi> like) is such;</l>
+               <l>"Never to say too little, nor too much.</l>
+               <lg>
+                  <l>"Let such a Man begin without delay,</l>
+                  <l>By this time we are convinc'd, this is the way,</l>
+                  <l>"But he must do much more than I can say.</l>
+               </lg>
+               <l>In this last Line of his, we plainly find</l>
+               <l>The gentle Author does not know his Mind;</l>
+               <pb n="7" facs="tcp:50786:4"/>
+               <l>Whose single Judgment bravely doth Condemn</l>
+               <l>Authors, whom all approve, and all Esteem;</l>
+               <lg>
+                  <l>Prodigious Confidence! to Storm alone</l>
+                  <l>With that Victorious Pen, <hi>Apollo</hi>'s Throne,</l>
+                  <l>And from his side cast the great fav'rites down.</l>
+               </lg>
+               <l>But some he stoops to praise: amongst the rest,</l>
+               <l>
+                  <hi>Virgil</hi>'s the happy Man, who pleases best:</l>
+               <l>Therefore his Praise of that Gigantick Soul</l>
+               <l>Strides o're all Bounds as much without Controul</l>
+               <l>As th' Authors Similes, which strangely hit,</l>
+               <l>And by a Changeling proves great <hi>Virgill</hi>'s Wit.</l>
+               <l>So have I known bright day describe a Crime,</l>
+               <l>And vast Eternity Explain'd by Time.</l>
+            </lg>
+            <lg>
+               <l>Great <hi>Johnson!</hi> Greater now since he will Deigne▪</l>
+               <l>T' allow thy head to grace an humble Sign;</l>
+               <l>Methinks I hear that liveless sign Inspir'd</l>
+               <l>With thy Poetick Soul, Methinks 'tis fir'd</l>
+               <lg>
+                  <pb n="8" facs="tcp:50786:5"/>
+                  <l>In thine own words, and with a scornful Smile,</l>
+                  <l>Methinks it Cries, "I would not bear the Toil</l>
+                  <l>"To think so long together, and so Vile.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>"But that these Base and Beggarly Conceits</l>
+               <l>"Should carry't by the Multitude of Voices,</l>
+               <l>"Oh! this would make a Learn'd and Liberal Soul</l>
+               <l>"To Rive his stained Quill up to the Back,</l>
+               <l>"And Damn his long watch'd Labours to the Fire.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:50786:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
